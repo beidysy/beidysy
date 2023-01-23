@@ -18,8 +18,4 @@ Skills: PYTHON / BASH / JS / HTML / CSS / CYBERSECURITY TOOLS
 
 ![Profile views](https://gpvc.arturio.dev/beidysy)  
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d3900818-0cc3-4bad-b75e-37dfefb7f50d/25072efe-11e8-4443-b1ce-9c17ba35931f.png" /></a>
-
-
-.. image:: https://wakatime.com/share/@d3900818-0cc3-4bad-b75e-37dfefb7f50d/25072efe-11e8-4443-b1ce-9c17ba35931f.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d3900818-0cc3-4bad-b75e-37dfefb7f50d/f22a051d-51e3-4f20-af38-81351b8c8dc4.png" /></a>
