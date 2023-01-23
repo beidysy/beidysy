@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Beidy!
 #### Cyber Security and Dev enthusiastic!
-![Cyber Security and Dev enthusiastic!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 An ambitious graduate who earned an Information Systems Technology master’s degree with a concentration in Information Assurance with a 4.0 GPA, which qualified him as his university’s college of technology Graduate Academic Award Recipient. 
 
 Skills: PYTHON / BASH / JS / HTML / CSS / CYBERSECURITY TOOLS
