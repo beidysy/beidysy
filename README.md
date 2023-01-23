@@ -1,21 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm Beidy!
+#### Cyber Security and Dev enthusiastic!
+![Cyber Security and Dev enthusiastic!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**beidysy/beidysy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An ambitious graduate who earned an Information Systems Technology master’s degree with a concentration in Information Assurance with a 4.0 GPA, which qualified him as his university’s college of technology Graduate Academic Award Recipient. 
 
-Here are some ideas to get you started:
+Skills: PYTHON / BASH / JS / HTML / CSS / CYBERSECURITY TOOLS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beidysy)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning AI 
+- 📫 How to reach me: beidyasy@gmail.com 
+- ⚡ Fun fact: I can draw you :) 
 
-<figure><embed src="https://wakatime.com/share/@d3900818-0cc3-4bad-b75e-37dfefb7f50d/470742b1-bedd-4671-b31a-5eaaacbf1901.svg"></embed></figure>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beidysy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/beidysy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmadou-beidy-sy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_beidysy/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beidysy)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=beidysy&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=beidysy)  
+
+![Profile views](https://gpvc.arturio.dev/beidysy)  
