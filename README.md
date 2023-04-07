@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Beidy!
 #### Cyber Security and Dev enthusiastic!
 
-Skills: PYTHON / BASH / JS / HTML / CSS / CYBERSECURITY TOOLS
+Skills: C# / PYTHON / BASH / JS / CYBERSECURITY TOOLS
 
 - 🌱 I’m currently learning AI 
 - 📫 How to reach me: beidyasy@gmail.com 
