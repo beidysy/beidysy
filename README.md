@@ -19,9 +19,7 @@
   <a href="https://www.linkedin.com/in/beidy-sy/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" />
   </a>&nbsp;
-  <a href="https://www.instagram.com/_beidysy/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" />
-  </a>
+
 </p>
 
 ---
