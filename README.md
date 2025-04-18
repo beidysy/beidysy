@@ -1,21 +1,59 @@
-### Hi there 👋, I'm Beidy!
-#### Cyber Security and Dev enthusiastic!
+<h1 align="center">Hi 👋, I'm Beidy Sy</h1>
+<h3 align="center">Cybersecurity & Dev Enthusiast | Currently diving into AI 🤖</h3>
 
-Skills: C# / PYTHON / BASH / JS / CYBERSECURITY TOOLS
+---
 
-- 🌱 I’m currently learning AI 
-- 📫 How to reach me: beidyasy@gmail.com 
-- ⚡ Fun fact: I can draw you :) 
+- 💻 Tech Stack: **C#**, **Python**, **JavaScript**, **Bash**, **Cybersecurity Tools**
+- 🌱 Currently learning: **Artificial Intelligence**
+- 🎨 Fun fact: *I can draw you 😄*
+- 📫 Reach me at: **beidyasy@gmail.com**
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/beidysy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/beidy-sy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_beidysy/)  
+### 🌐 Connect with me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beidysy)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://github.com/beidysy" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/beidy-sy/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/_beidysy/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" />
+  </a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=beidysy&show_icons=true)  
+---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=beidysy)  
+### 📊 GitHub Stats
 
-![Profile views](https://gpvc.arturio.dev/beidysy)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beidysy&show_icons=true&theme=radical" alt="Beidy's GitHub stats" />
+</p>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d3900818-0cc3-4bad-b75e-37dfefb7f50d/f22a051d-51e3-4f20-af38-81351b8c8dc4.png" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beidysy&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### ⏱ WakaTime Stats (All Time)
+
+<p align="center">
+  <img src="https://wakatime.com/share/@d3900818-0cc3-4bad-b75e-37dfefb7f50d/f22a051d-51e3-4f20-af38-81351b8c8dc4.png" alt="WakaTime stats" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=beidysy&theme=dracula" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/beidysy" alt="Profile Views" />
+</p>
